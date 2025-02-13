@@ -3,3 +3,5 @@ https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri/dat
 
 I have used a pretrained model ResNet18 and defined multiple sets of transformations and different optimizers such as different loss functions to see how the model performs.
 The dataset itself contains MRI, X-rays of different brain tumors.
+
+In Raport you will find all the experiments I have done to increase the model's performance. I have managed to increase it by 10%, from 65% to 75%
