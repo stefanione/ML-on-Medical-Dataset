@@ -1,7 +1,6 @@
-The ipynb contains the impelemntation for preprocessing and processing images from a medical dataset which can be found here:
+This Jupyter notebook contains the implementation for preprocessing and processing medical images from a dataset, available at the following link:
 https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri/data
 
-I have used a pretrained model ResNet18 and defined multiple sets of transformations and different optimizers such as different loss functions to see how the model performs.
-The dataset itself contains MRI, X-rays of different brain tumors.
+The model utilized is a pretrained ResNet18, with various transformations applied and multiple optimizers and loss functions experimented with to assess model performance. The dataset includes MRI scans and X-rays of different types of brain tumors.
 
-In Raport you will find all the experiments I have done to increase the model's performance. I have managed to increase it by 10%, from 65% to 75%
+The accompanying report outlines the experiments conducted to improve the model's performance. As a result, I was able to enhance the model's accuracy by 10%, from 65% to 75%.
